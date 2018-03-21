@@ -1,0 +1,24 @@
+{
+  "userdetails": [
+    {
+      "id": 1,
+      "UserName": "abc",
+      "PassWord": "sdfsd",
+      "MobileNo": "9349404343",
+      "Email": "abc@gmail.com"
+    },
+    {
+      "id": 2,
+      "UserName": "abc",
+      "PassWord": "sdfsd",
+      "MobileNo": "9349404343",
+      "Email": "abc@gmail.com"
+    },
+    {
+      "UserName": "jhon",
+      "PassWord": "tiger",
+      "MobileNo": "9235687946",
+      "id": 3
+    }
+  ]
+}

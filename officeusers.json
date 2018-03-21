@@ -1,0 +1,25 @@
+{
+  "officedetails": [
+    {
+      "id": 1,
+      "OfficeName": "HCL",
+      "Address": "17-2-32",
+      "Location": "marthalli",
+      "City": "BNG"
+    },
+    {
+      "id": 2,
+      "OfficeName": "HCL",
+      "Address": "17-2-32",
+      "Location": "marthalli",
+      "City": "BNG"
+    },
+    {
+      "OfficeName": "tcs",
+      "Address": "sdf",
+      "Location": "btm",
+      "City": "knl",
+      "id": 3
+    }
+  ]
+}
